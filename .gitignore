@@ -223,3 +223,6 @@ data/raw/
 *.mp4
 *.zip
 data/processed/
+outputs/*.html
+outputs/*.mp4
+outputs/frames/
